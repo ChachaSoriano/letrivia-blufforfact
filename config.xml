@@ -2,8 +2,8 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="histrivia"  version = "1.0.0" versionCode = "1" >
 
 
-        <name>Histrivia</name>
-        <description>World History Quiz Game.</description>
+        <name>Letrivia</name>
+        <description>Computer Terminologies Bluff or Fact</description>
         <author>Team CoffeeMate</author>
 		<gap:platforms>
                 <gap:platform name="ios" />
